@@ -1,0 +1,7 @@
+.my-border{
+    border: 2px solid red;
+}
+body{
+    font-family: 'Prompt', sans-serif;
+    background-color: #f2fff7;
+}
